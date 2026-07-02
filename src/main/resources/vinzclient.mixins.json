@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.vinzclient.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "KeyboardMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
